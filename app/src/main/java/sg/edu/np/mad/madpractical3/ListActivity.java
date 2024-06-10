@@ -1,10 +1,9 @@
-package sg.edu.np.mad.myapplication;
+package sg.edu.np.mad.madpractical3;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,9 +12,10 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import android.content.DialogInterface;
-import android.os.Bundle;
+
 import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
+
+import sg.edu.np.mad.myapplication.R;
 
 
 public class ListActivity extends AppCompatActivity {

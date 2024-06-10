@@ -1,4 +1,4 @@
-package sg.edu.np.mad.myapplication;
+package sg.edu.np.mad.madpractical3;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,6 +14,8 @@ import androidx.core.view.WindowInsetsCompat;
 import android.widget.Toast;
 
 import java.util.Random;
+
+import sg.edu.np.mad.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 

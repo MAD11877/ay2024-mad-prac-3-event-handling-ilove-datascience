@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MessageGroup">
+    tools:context="sg.edu.np.mad.madpractical3.MessageGroup">
 
     <TextView
         android:id="@+id/textView"
